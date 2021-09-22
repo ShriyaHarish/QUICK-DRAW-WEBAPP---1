@@ -1,0 +1,36 @@
+#quick_draw{
+    color: blue;
+    background: wheat;
+}
+
+body{
+    background-color: chartreuse;
+}
+
+#timer{
+    margin-right: 20px;
+    text-align: right;
+    font-size: 200%;
+    color: black;
+}
+
+#score{
+    margin-left: 20px;
+    font-size: 200%;
+    color: black;
+}
+
+#your_sketch{
+    color: black;
+    font-size: 150%;
+}
+
+#confidence{
+    color: black;
+    font-size: 150%;
+}
+
+#final_sketch{
+    color: red;
+    font-size: 150%;
+}
